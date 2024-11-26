@@ -1,4 +1,4 @@
-# README: NoSQL Databases with MongoDB
+NoSQL Databases with MongoDB
 
 ## Overview
 
